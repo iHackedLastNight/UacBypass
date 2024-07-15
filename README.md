@@ -1,3 +1,5 @@
+![msg1828739343-49001](https://github.com/user-attachments/assets/21c38927-4399-41db-ad20-cc84a8cdfa75)
+
 # UAC Bypass with Shellcode Execution
 
 ## Overview
